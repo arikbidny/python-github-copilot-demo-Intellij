@@ -1,0 +1,5 @@
+cmd + right key - accept only part of the code
+
+
+optimize - bubble sort -> convert to quick sort after optimize prompts
+simplify - Simplify the code to reduce repetition and improve readability
